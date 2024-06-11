@@ -1,0 +1,119 @@
+Write a Java program to find the sum of all elements in an array.
+Write a Java program to find the maximum element in an array.
+Write a Java program to find the minimum element in an array.
+Write a Java program to find the average of elements in an array.
+Write a Java program to find the second largest element in an array.
+Write a Java program to find the second smallest element in an array.
+Write a Java program to reverse an array.
+Write a Java program to sort an array in ascending order.
+Write a Java program to sort an array in descending order.
+Write a Java program to find the frequency of each element in an array.
+Write a Java program to find the common elements between two arrays.
+Write a Java program to merge two sorted arrays into a single sorted array.
+Write a Java program to remove duplicate elements from an array.
+Write a Java program to find the index of a specific element in an array.
+Write a Java program to rotate an array to the right by a given number of steps.
+Write a Java program to find the missing number in an array of integers.
+Write a Java program to find the intersection of two arrays.
+Write a Java program to find the union of two arrays.
+Write a Java program to find the maximum product of two integers in an array.
+Write a Java program to find the leaders in an array (elements which are greater than all elements to their right).
+Intermediate Level:
+
+Write a Java program to find the triplet with the given sum in an array.
+Write a Java program to rearrange positive and negative numbers in an array.
+Write a Java program to find the subarray with the largest sum.
+Write a Java program to count the number of smaller elements on the right side of each element in an array.
+Write a Java program to find the largest subarray with equal number of 0s and 1s.
+Write a Java program to find the equilibrium index of an array (index where the sum of elements before it is equal to the sum of elements after it).
+Write a Java program to find the length of the longest increasing subsequence in an array.
+Write a Java program to find the smallest positive missing number in an array.
+Write a Java program to find the maximum length of bitonic subarray (first increasing, then decreasing).
+Write a Java program to find the number of triangles that can be formed with three different array elements as lengths of the triangles' sides.
+Write a Java program to find the contiguous subarray with the largest product.
+Write a Java program to find the maximum difference between two elements in an array such that the larger element appears after the smaller element.
+Write a Java program to find the maximum length of subarray with sum divisible by a given number.
+Write a Java program to rearrange an array such that arr[i] = i.
+Write a Java program to find the maximum circular subarray sum.
+Advanced Level:
+
+Write a Java program to find the minimum number of swaps required to sort an array.
+Write a Java program to find the kth smallest element in an unsorted array.
+Write a Java program to find the median of two sorted arrays.
+Write a Java program to merge intervals.
+Write a Java program to find the maximum subarray sum after at most one operation.
+Write a Java program to implement a 2D array.
+Write a Java program to implement sparse matrix representation.
+Write a Java program to find the minimum operations required to make all elements of an array equal.
+Write a Java program to find the maximum subarray sum after removing at most one element.
+Write a Java program to implement matrix multiplication.
+Write a Java program to implement matrix addition.
+Write a Java program to implement matrix subtraction.
+Write a Java program to implement matrix transpose.
+Write a Java program to find the maximum area rectangle in a binary matrix.
+Write a Java program to find the smallest window in an array sorting which will make the entire array sorted.
+Expert Level:
+
+Write a Java program to find the next greater element for each element in an array.
+Write a Java program to find the maximum sum rectangle in a 2D matrix.
+Write a Java program to find the number of distinct subsequences in an array.
+Write a Java program to find the longest increasing subsequence such that the difference between adjacent elements is one.
+Write a Java program to find the number of connected components in an undirected graph represented as an adjacency matrix.
+Write a Java program to check whether an array is a subset of another array.
+Write a Java program to implement a dynamic array.
+Write a Java program to find the maximum product subarray with one change allowed.
+Write a Java program to implement a circular queue using arrays.
+Write a Java program to implement a deque (double-ended queue) using arrays.
+Write a Java program to implement a priority queue using arrays.
+Write a Java program to find the maximum area of a histogram.
+Write a Java program to implement a stack using arrays.
+Write a Java program to implement a queue using arrays.
+Write a Java program to find the largest rectangular area possible in a given histogram.
+Write a Java program to find the minimum number of platforms required at a railway station.
+Write a Java program to find the maximum sum subsequence with no adjacent elements.
+Write a Java program to find the longest bitonic subsequence.
+Write a Java program to find the maximum XOR value pair in an array.
+Write a Java program to find the smallest window that contains all elements of another array.
+Write a Java program to find the minimum window in a string containing all characters of another string.
+Write a Java program to find the maximum sum of increasing subsequence with one change allowed.
+Write a Java program to find the largest divisible subset of an array.
+Write a Java program to find the maximum length chain of pairs in an array.
+Write a Java program to find the maximum sum of subsequence with no adjacent elements and at least one element is to be included.
+Write a Java program to find the length of the longest alternating subsequence.
+Write a Java program to find the length of the longest subsequence of a given sequence such that all elements of the subsequence are sorted in increasing order.
+Write a Java program to find the maximum length subsequence with difference between adjacent elements as either 0 or 1.
+Write a Java program to find the maximum sum of increasing subsequence with at most one change allowed.
+Write a Java program to find the longest palindromic subsequence.
+Challenging Level:
+
+Write a Java program to find the maximum product of subarray with contiguous elements.
+Write a Java program to find the length of longest alternating even odd subsequence.
+Write a Java program to find the maximum length subsequence with sum divisible by k.
+Write a Java program to find the longest subsequence of a given array such that elements are consecutive integers.
+Write a Java program to find the longest alternating subsequence in an array.
+Write a Java program to find the maximum sum bitonic subsequence.
+Write a Java program to find the maximum sum subsequence of at least size two.
+Write a Java program to find the number of unique pairs with a given sum in an array.
+Write a Java program to find the maximum length of snake sequence.
+Write a Java program to find the length of the longest increasing odd even subsequence.
+Write a Java program to find the maximum sum of subsequence with no adjacent elements and no two consecutive elements are adjacent in the original sequence.
+Write a Java program to find the longest repeating subsequence.
+Write a Java program to find the number of subarrays with a given XOR value.
+Write a Java program to find the minimum number of jumps required to reach the end of the array.
+Write a Java program to find the minimum number of elements to be removed to make either first or last array element a power of 2.
+Write a Java program to find the maximum path sum in two sorted arrays.
+Write a Java program to find the maximum XOR subarray value in a given array.
+Write a Java program to find the length of the longest alternating bit subsequence.
+Write a Java program to find the minimum jumps needed to reach the end of the array.
+Write a Java program to find the length of longest subarray with sum divisible by k.
+
+Write a Java program to find the maximum sum of a subarray with a given length.
+Write a Java program to find the minimum and maximum product of subarray of size k.
+Write a Java program to find the median of a stream of numbers using a sorted array.
+Write a Java program to find the longest subarray with sum divisible by a given number k.
+Write a Java program to find the smallest positive integer that is missing from an unsorted array.
+Write a Java program to partition an array such that all even elements come before all odd elements.
+Write a Java program to find the largest rectangular area under histogram.
+Write a Java program to find the minimum number of operations required to make all elements of the array equal, where each operation consists of adding or subtracting 1 to/from any element.
+Write a Java program to find the subarray with the given sum in a binary array (containing only 0s and 1s).
+Write a Java program to find the subarray with equal 0s and 1s.
