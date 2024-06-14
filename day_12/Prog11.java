@@ -1,4 +1,4 @@
-//Write a Java program to find the frequency of each element in an array.i
+//Write a Java program to find the common elements between two arrays.
 import java.util.Scanner;
 public class Prog11{
 	public static void main(String[] args){
@@ -10,16 +10,25 @@ public class Prog11{
 		for(int i=0;i<size;i++){
 			arr[i]=sc.nextInt();
 		}
-		int frequency[]=new int[100]; 
-		for(int i:arr){
-			frequency[i]++;
+		System.out.println("enter an elements of 2nd array");
+                int arr2[]=new int[size];
+                for(int i=0;i<size;i++){
+                        arr[i]=sc.nextInt();
+                }
+		int arr3[]=new int[size];
+		for(int i=0;i<size;i++){
+		   for(int j=0;j<size;j++){
+			   if(arr[i]==arr2[j]){
+				   int k=0;
+				   arr3[k]=arr[i];
+				   k++;
+			   }
+		   }
 		}
-		System.out.println("frequency of an each element is");
-		for(int i=0;i<frequency.length;i++){
-			if(frequency[i]>0){
-				System.out.println(i+" "+frequency[i]);
-			}
-			}
+		for(int i:arr3){
+			System.out.println(i);
+		}
+
 		sc.close();
 	}
 }
